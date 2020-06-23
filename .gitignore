@@ -1,0 +1,32 @@
+.graphql_ppx_cache/
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/reasonml,react
+# Edit at https://www.toptal.com/developers/gitignore?templates=reasonml,react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+### Reasonml ###
+/lib
+
+# End of https://www.toptal.com/developers/gitignore/api/reasonml,react
+
+**/**.bs.js
+
+*.graphql
+
+.env
