@@ -9,6 +9,7 @@
     "reason-react",
     "reason-apollo",
     "reason-apollo-hooks",
+    "@reasonml-community/graphql-ppx",
     "reschema"
   ],
   "reason": {
@@ -18,8 +19,7 @@
     "-bs-super-errors"
   ],
   "ppx-flags": [
-    "graphql_ppx/ppx",
-    "lenses-ppx/ppx"
+    "@baransu/graphql_ppx_re/ppx"
   ],
   "refmt": 3,
   "package-specs": {

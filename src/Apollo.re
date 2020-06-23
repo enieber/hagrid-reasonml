@@ -14,7 +14,7 @@ let inMemoryCache =
 /* Create an HTTP Link */
 let httpLink =
   ApolloLinks.createHttpLink(
-    ~uri=process.env.REACT_APP_URL_HAGRID,
+    ~uri="http://hagrid-startse.herokuapp.com/v1/graphql",
     (),
   );
 
