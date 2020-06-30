@@ -16,7 +16,8 @@
     "react-jsx": 3
   },
   "bsc-flags": [
-    "-bs-super-errors"
+    "-bs-super-errors",
+    "-open Belt"
   ],
   "ppx-flags": [
     "@baransu/graphql_ppx_re/ppx"

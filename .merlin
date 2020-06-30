@@ -3,6 +3,7 @@ FLG -ppx /home/enieber/projects/graphql/hagrid-reasonml/node_modules/@baransu/gr
 FLG -ppx '/home/enieber/projects/graphql/hagrid-reasonml/node_modules/bs-platform/linux/bsc.exe -as-ppx -bs-jsx 3'
 S /home/enieber/projects/graphql/hagrid-reasonml/node_modules/bs-platform/lib/ocaml
 B /home/enieber/projects/graphql/hagrid-reasonml/node_modules/bs-platform/lib/ocaml
+FLG -open Belt
 FLG -w +a-4-9-20-40-41-42-50-61-102
 S /home/enieber/projects/graphql/hagrid-reasonml/node_modules/bs-reform/lib/ocaml
 B /home/enieber/projects/graphql/hagrid-reasonml/node_modules/bs-reform/lib/ocaml

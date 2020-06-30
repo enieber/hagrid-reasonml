@@ -30,3 +30,5 @@ sketch
 graphql_schema.json
 
 .env
+
+build
