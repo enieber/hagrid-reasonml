@@ -27,7 +27,7 @@ sketch
 
 **/**.bs.js
 
-graphql_schema.json
+# graphql_schema.json
 
 .env
 
